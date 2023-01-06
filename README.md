@@ -26,7 +26,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-<channels>
+<channels> 
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES DRAMA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink></externallink>
