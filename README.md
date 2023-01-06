@@ -6,7 +6,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SUSPENSE-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia904701.us.archive.org/9/items/2023_20230106_202301/SUSPENSE.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -18,7 +18,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES AÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/A-O-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia904701.us.archive.org/25/items/2023_20230106/A%C3%87%C3%83O.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -30,7 +30,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES DRAMA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink></externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia904701.us.archive.org/25/items/2023_20230106/DRAMA.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -42,7 +42,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES FAMILIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FAMILIA-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia804701.us.archive.org/25/items/2023_20230106/FAMILIA.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -54,7 +54,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES AVENTURA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/AVENTURA-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia804701.us.archive.org/25/items/2023_20230106/AVENTURA.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -66,7 +66,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES FICÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FIC-O-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia904701.us.archive.org/25/items/2023_20230106/FIC%C3%87%C3%83O.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
