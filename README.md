@@ -114,7 +114,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DOCUMENTÁRIO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DOCUMENT-RIO-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia804707.us.archive.org/3/items/doc_20230122/DOCUMENT%C3%81RIO.jpg</thumbnail>
 <info></info>
 </channel>
 </channels>
