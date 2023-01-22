@@ -108,3 +108,14 @@
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DOCUMENTÁRIO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DOCUMENT-RIO-UPDATE/main/README.md</externallink>
+<thumbnail></thumbnail>
+<info></info>
+</channel>
+</channels>
+
