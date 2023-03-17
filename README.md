@@ -175,7 +175,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ROMANCE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/ROMANCE-UPDATE/main/README.md</externallink>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601604.us.archive.org/28/items/romance_202303/ROMANCE.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 </channel>
