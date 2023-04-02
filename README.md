@@ -187,8 +187,8 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] YOUTUBE  FILMES [/COLOR][B][COLOR white] YOUTUBE [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/YOUTUBE-FILMES/main/README.md</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/mFpfin3zuLoevR3ufNMsmQxBxLG.jpg</thumbnail>
-<fanart>https://ia601604.us.archive.org/22/items/youtube_202304/YOUTUBE.jpg</fanart>
+<thumbnail>https://ia601604.us.archive.org/22/items/youtube_202304/YOUTUBE.jpg</thumbnail>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> Com a popularização da internet, muitos filmes cinematográficos têm sido encontrados e compartilhados em plataformas online, como o YouTube. Esses filmes, muitas vezes considerados perdidos ou raros, agora são acessíveis para um público muito maior do que aquele que tinha acesso a eles anteriormente.</info>
 </channel>
 </channels>
