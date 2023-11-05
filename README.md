@@ -20,7 +20,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FANTASIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FANTASIA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia904708.us.archive.org/23/items/fantasia_202302/FANTASIA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/292cb462.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -32,7 +32,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SUSPENSE-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804709.us.archive.org/9/items/novo_20230109/SUSPENSE%202.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/78d99b68.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -44,7 +44,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  AÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/A-O-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804708.us.archive.org/22/items/categoria_202301/A%C3%87%C3%83O.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/a6685297.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -56,7 +56,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  DRAMA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DRAMA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia904708.us.archive.org/22/items/categoria_202301/DRAMA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/90a06d8b.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -68,7 +68,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  FAMILIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FAMILIA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804708.us.archive.org/22/items/categoria_202301/FAMILIA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/3f8c74e7.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -80,7 +80,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  AVENTURA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/AVENTURA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia904708.us.archive.org/22/items/categoria_202301/AVENTURA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/31147397.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
