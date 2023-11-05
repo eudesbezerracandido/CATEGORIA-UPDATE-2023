@@ -32,7 +32,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  SUSPENSE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SUSPENSE-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/78d99b68.jpg</thumbnail>
+<thumbnail>https://ia800504.us.archive.org/27/items/fanart_20231105/SUSPENSE.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -104,7 +104,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  COMÉDIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/COM-DIA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/23d176cf.jpg</thumbnail>
+<thumbnail>https://ia800504.us.archive.org/27/items/fanart_20231105/COM%C3%89DIA.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -116,7 +116,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  NACIONAIS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/NACIONAL-2023-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/e41d9125.jpg</thumbnail>
+<thumbnail>https://ia800504.us.archive.org/27/items/fanart_20231105/NACIONAL.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -164,7 +164,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] POLICIAL [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/POLICIAL-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/7b7bf33e.jpg</thumbnail>
+<thumbnail>https://ia800504.us.archive.org/27/items/fanart_20231105/POLICIAL.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
