@@ -140,7 +140,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DOCUMENTÁRIO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DOCUMENT-RIO-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804707.us.archive.org/3/items/doc_20230122/DOCUMENT%C3%81RIO.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/45e4bfcb.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -152,7 +152,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  GUERRA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/GUERRA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804707.us.archive.org/3/items/guerra_202301/GUERRA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/b4171df6.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -164,7 +164,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] POLICIAL [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/POLICIAL-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia904704.us.archive.org/15/items/policial_202303/POLICIAL.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/7b7bf33e.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -176,7 +176,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ROMANCE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/ROMANCE-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia601604.us.archive.org/28/items/romance_202303/ROMANCE.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/65ad9b73.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -188,7 +188,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  LEGENDA  FIXA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-LEGENDA-FIXA/main/README.md</externallink>
-<thumbnail>https://ia601607.us.archive.org/15/items/fixa_20230402/LEGENDA%20FIXA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/0de2a05e.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -200,7 +200,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CRIME [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CRIME-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia802606.us.archive.org/22/items/crime_202304/CRIME.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/5eaf6559.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -212,7 +212,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FAROESTE [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FAROESTE-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804703.us.archive.org/5/items/faroeste_202309/FAROESTE.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/49c6c05c.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
