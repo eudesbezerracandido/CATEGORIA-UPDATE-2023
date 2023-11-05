@@ -92,7 +92,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  FICÇÃO [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FIC-O-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804708.us.archive.org/22/items/categoria_202301/FIC%C3%87%C3%83O.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/54e48e06.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -104,7 +104,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  COMÉDIA [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/COM-DIA-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804709.us.archive.org/9/items/novo_20230109/COMEDIA.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/23d176cf.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -116,7 +116,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  NACIONAIS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/NACIONAL-2023-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia804707.us.archive.org/24/items/nacional_202301/NACIONAL.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/e41d9125.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
@@ -128,7 +128,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  TERROR [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/TERROR-UPDATE/main/README.md</externallink>
-<thumbnail>https://ia904707.us.archive.org/30/items/terror_20230114/TERROR%202.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/b437d727.jpg</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/icon.png</fanart>
 <info></info>
 </channel>
